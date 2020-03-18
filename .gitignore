@@ -1,0 +1,9 @@
+## dotnet
+bin/
+obj/
+
+## hidden files
+/-
+
+## nodejs
+node_modules/
